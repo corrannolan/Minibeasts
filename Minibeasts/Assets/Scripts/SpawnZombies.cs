@@ -6,16 +6,17 @@ public class SpawnZombies : MonoBehaviour
 {
     public GameObject Zombie;
     public float SpawnRate;
-    //public float SpawnSpan;
+
+    void Awake()
+    {
+        StartCoroutine("Spawning");
+    }
 
     void Start()
     {
+
     }
-    void Awake()
-    {
-            StartCoroutine("Spawning");
-            //StartCoroutine("GooGooGaGa");
-}
+
     IEnumerator Spawning()
     {
         while (true)
@@ -24,9 +25,4 @@ public class SpawnZombies : MonoBehaviour
             GameObject gameObject = Instantiate(Zombie, transform.position, transform.rotation);
         }
     }
-    /*IEnumerator GooGooGaGa()
-    {
-        yield return new WaitForSeconds(SpawnSpan);
-        Destroy(gameObject);
-    }*/
 }

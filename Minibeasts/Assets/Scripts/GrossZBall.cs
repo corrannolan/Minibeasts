@@ -29,10 +29,11 @@ public class GrossZBall : MonoBehaviour
             Yeeted = true;
             GameObject ps = Instantiate(zombie, transform.position, new Quaternion());
             aS.PlayOneShot(hiveDes);
-            StartCoroutine("Die");
+            StartCoroutine(die());
         }
     }
-    IEnumerator Die()
+
+    IEnumerator die()
     {
         yield return new WaitForSeconds(3);
         Rend.enabled = false;

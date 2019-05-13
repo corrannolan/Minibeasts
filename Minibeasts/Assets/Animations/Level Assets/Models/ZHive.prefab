@@ -109,7 +109,7 @@ MonoBehaviour:
   hiveDes: {fileID: 8300000, guid: 76eec57ef0694b44cb4a213f88031c8f, type: 3}
   Yeeted: 0
   Child: {fileID: 0}
-  Soda: {fileID: 7549114680530249682, guid: df7f41be7f17caa478127e23a01eefa4, type: 3}
+  zombie: {fileID: 1525690073234183729, guid: 4ab26fe2c0de9ec4fa1d0c3fe5583e62, type: 3}
 --- !u!135 &1854330880116347290
 SphereCollider:
   m_ObjectHideFlags: 0
