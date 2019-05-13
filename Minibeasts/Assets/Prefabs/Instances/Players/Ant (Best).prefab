@@ -1263,7 +1263,7 @@ MonoBehaviour:
   Cam: {fileID: 0}
   cameraTransformSorta: {fileID: 0}
   Speed: 10
-  JumpForce: 500
+  JumpForce: 550
   CanMove: 1
   Controls: 1
   CanJump: 0
@@ -1275,7 +1275,6 @@ MonoBehaviour:
   wS: {fileID: 7264859513627615563}
   footSteps: {fileID: 8300000, guid: 1b577e3ad3112014ebe0c5924052b315, type: 3}
   jumpUp: {fileID: 8300000, guid: cec160fbb5eebf14cb2d95571d04603b, type: 3}
-  fallLand: {fileID: 8300000, guid: 97ce1532a16b5ef47b22823b7ecdf520, type: 3}
 --- !u!114 &6120956248913691596
 MonoBehaviour:
   m_ObjectHideFlags: 0
