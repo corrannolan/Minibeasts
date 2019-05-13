@@ -21,6 +21,7 @@ public class Termite : MonoBehaviour
     bool termOut = false;
     bool canPuddle = true;
     public float termSpawnTime;
+    public float bounceSpawnTime;
 
     public Animator anim;
 
@@ -81,6 +82,7 @@ public class Termite : MonoBehaviour
                     GameObject gameObject = Instantiate(bouncePrefab, bounceSpawnPoint.transform.position, new Quaternion());
 
                     StartCoroutine("bounceSpawnCooldown");
+                    print("pud call");
                 }
             }
 
@@ -146,7 +148,7 @@ public class Termite : MonoBehaviour
 
     IEnumerator bounceSpawnCooldown()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(bounceSpawnTime);
         canPuddle = true;
     }
 }
