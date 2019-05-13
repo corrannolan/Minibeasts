@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AntCarryMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/body.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg1.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg1.1/leg1.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg1.1/leg1.2/leg1.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg1.1/leg1.2/leg1.3/leg1.3_end
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg2.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg2.1/leg2.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg2.1/leg2.2/leg2.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg2.1/leg2.2/leg2.3/leg2.3_end
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg3.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg3.1/leg3.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg3.1/leg3.2/leg3.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg3.1/leg3.2/leg3.3/leg3.4
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg3.1/leg3.2/leg3.3/leg3.4/leg3.4_end
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg4.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg4.1/leg4.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg4.1/leg4.2/leg4.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg4.1/leg4.2/leg4.3/leg4.3_end
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg5.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg5.1/leg5.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg5.1/leg5.2/leg5.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg5.1/leg5.2/leg5.3/leg5.3_end
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg6.1
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg6.1/leg6.2
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg6.1/leg6.2/leg6.3
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg6.1/leg6.2/leg6.3/leg6.4
+    m_Weight: 0
+  - m_Path: Armature/body.1/leg6.1/leg6.2/leg6.3/leg6.4/leg6.4_end
+    m_Weight: 0
+  - m_Path: Armature/head.1
+    m_Weight: 1
+  - m_Path: Armature/head.1/head.1_end
+    m_Weight: 0
+  - m_Path: Armature/leg1.target
+    m_Weight: 0
+  - m_Path: Armature/leg1.target/leg1.target_end
+    m_Weight: 0
+  - m_Path: Armature/leg2.target
+    m_Weight: 0
+  - m_Path: Armature/leg2.target/leg2.target_end
+    m_Weight: 0
+  - m_Path: Armature/leg3.target
+    m_Weight: 0
+  - m_Path: Armature/leg3.target/leg3.target_end
+    m_Weight: 0
+  - m_Path: Armature/leg4.target
+    m_Weight: 0
+  - m_Path: Armature/leg4.target/leg4.target_end
+    m_Weight: 0
+  - m_Path: Armature/leg5.target
+    m_Weight: 0
+  - m_Path: Armature/leg5.target/leg5.target_end
+    m_Weight: 0
+  - m_Path: Armature/leg6.target
+    m_Weight: 0
+  - m_Path: Armature/leg6.target/leg6.target_end
+    m_Weight: 0
+  - m_Path: Armature/tail.1
+    m_Weight: 1
+  - m_Path: Armature/tail.1/tail.1_end
+    m_Weight: 0
+  - m_Path: m_Abdomen
+    m_Weight: 0

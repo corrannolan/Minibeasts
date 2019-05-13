@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 27104ac4482ed884aaa272052259d257
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: leg1.1
+    100014: leg1.2
+    100016: leg1.3
+    100018: leg1.3_end
+    100020: leg1.target
+    100022: leg1.target_end
+    100024: leg2.1
+    100026: leg2.2
+    100028: leg2.3
+    100030: leg2.3_end
+    100032: leg2.target
+    100034: leg2.target_end
+    100036: leg3.1
+    100038: leg3.2
+    100040: leg3.3
+    100042: leg3.3_end
+    100044: leg3.target
+    100046: leg3.target_end
+    100048: leg4.1
+    100050: leg4.2
+    100052: leg4.3
+    100054: leg4.3_end
+    100056: leg4.target
+    100058: leg4.target_end
+    100060: leg5.1
+    100062: leg5.2
+    100064: leg5.3
+    100066: leg5.3_end
+    100068: leg5.target
+    100070: leg5.target_end
+    100072: leg6.1
+    100074: leg6.2
+    100076: leg6.3
+    100078: leg6.3_end
+    100080: leg6.target
+    100082: leg6.target_end
+    100084: m_Abdomen
+    100086: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: leg1.1
+    400014: leg1.2
+    400016: leg1.3
+    400018: leg1.3_end
+    400020: leg1.target
+    400022: leg1.target_end
+    400024: leg2.1
+    400026: leg2.2
+    400028: leg2.3
+    400030: leg2.3_end
+    400032: leg2.target
+    400034: leg2.target_end
+    400036: leg3.1
+    400038: leg3.2
+    400040: leg3.3
+    400042: leg3.3_end
+    400044: leg3.target
+    400046: leg3.target_end
+    400048: leg4.1
+    400050: leg4.2
+    400052: leg4.3
+    400054: leg4.3_end
+    400056: leg4.target
+    400058: leg4.target_end
+    400060: leg5.1
+    400062: leg5.2
+    400064: leg5.3
+    400066: leg5.3_end
+    400068: leg5.target
+    400070: leg5.target_end
+    400072: leg6.1
+    400074: leg6.2
+    400076: leg6.3
+    400078: leg6.3_end
+    400080: leg6.target
+    400082: leg6.target_end
+    400084: m_Abdomen
+    400086: //RootNode
+    2100000: Material
+    4300000: m_Abdomen
+    7400000: Armature|Termite1Idle
+    7400002: Armature|TermiteJump
+    7400004: Armature|TermiteWalk
+    9500000: //RootNode
+    13700000: m_Abdomen
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Termite1Idle
+      takeName: Armature|Termite1Idle
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TermiteJump
+      takeName: Armature|TermiteJump
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TermiteWalk
+      takeName: Armature|TermiteWalk
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

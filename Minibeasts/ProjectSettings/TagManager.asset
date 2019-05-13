@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bite
+  - Item
+  - Zombie
+  - Anchor
+  - Horn
+  - Barrier
+  - Death
+  - Shield
+  - Revive
+  - RefPoint
+  - Fire
+  - Hazard
+  - ControlArea
+  - Thorns
+  - SZone
+  - Projectile
+  - Tutorial
+  - ZombieBite
+  - Door
+  - BigFuckingRock
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Players
+  - Ground
+  - Anchor
+  - Shield
+  - Mite
+  - Strand
+  - PlayerBodies
+  - Puddle
+  - Meltable
+  - Enemy
+  - NoEnemy
+  - Dead
+  - Teeth
+  - InvisibleWalls
+  - Stopped
+  - Magic
+  - Fire
+  - Horn
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
