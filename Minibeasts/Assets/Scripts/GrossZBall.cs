@@ -9,7 +9,7 @@ public class GrossZBall : MonoBehaviour
     public bool Yeeted = false;
     Renderer Rend;
     public GameObject Child;
-    public GameObject Soda;
+    public GameObject zombie;
 
     void Start()
     {
@@ -27,7 +27,7 @@ public class GrossZBall : MonoBehaviour
         if (other.gameObject.layer == 16 || other.gameObject.tag == "Horn" || other.gameObject.tag == "Fire")
         {
             Yeeted = true;
-            GameObject ps = Instantiate(Soda, transform.position, new Quaternion());
+            GameObject ps = Instantiate(zombie, transform.position, new Quaternion());
             aS.PlayOneShot(hiveDes);
             StartCoroutine("Die");
         }

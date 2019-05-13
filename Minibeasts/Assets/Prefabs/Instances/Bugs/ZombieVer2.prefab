@@ -504,6 +504,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Agent: {fileID: 4298477529748233001}
+  Meat: {fileID: 0}
   Points:
   - {fileID: 0}
   - {fileID: 0}
@@ -540,7 +541,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.79
   m_Pitch: 1
   Loop: 0
   Mute: 0

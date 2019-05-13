@@ -626,6 +626,7 @@ MonoBehaviour:
     type: 3}
   bounceSpawnPoint: {fileID: 8459915319733578568}
   termSpawnTime: 5
+  bounceSpawnTime: 7.5
   anim: {fileID: 279895103613719713}
   spawnTerm: {fileID: 8300000, guid: dc56ba645b4a11f49b2ed4ad6c700bb3, type: 3}
   spawnGoo: {fileID: 8300000, guid: 0b6a932e37d6b454d8311da2d4164915, type: 3}
