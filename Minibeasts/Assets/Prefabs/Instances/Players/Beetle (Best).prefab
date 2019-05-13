@@ -2211,7 +2211,6 @@ MonoBehaviour:
   wS: {fileID: 2048080101511997681}
   footSteps: {fileID: 8300000, guid: 1b577e3ad3112014ebe0c5924052b315, type: 3}
   jumpUp: {fileID: 8300000, guid: cec160fbb5eebf14cb2d95571d04603b, type: 3}
-  fallLand: {fileID: 8300000, guid: 97ce1532a16b5ef47b22823b7ecdf520, type: 3}
 --- !u!114 &3171834008719882475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2920,7 +2919,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PS: {fileID: 7549114680530249682, guid: 79c54dbf919ab9f438b928d0d288e358, type: 3}
   aS: {fileID: 5909931391726270501}
-  shieldDes: {fileID: 0}
+  shieldDes: {fileID: 8300000, guid: 0338d9eab32ce9541ae613324ec62c51, type: 3}
 --- !u!1 &8133739286178059842
 GameObject:
   m_ObjectHideFlags: 0

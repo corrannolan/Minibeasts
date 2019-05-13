@@ -4640,7 +4640,7 @@ ParticleSystem:
 --- !u!199 &7549114680530249685
 ParticleSystemRenderer:
   serializedVersion: 6
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4711,3 +4711,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57b4acab62bb41f489fa8a1d1331e605, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  desTime: 5
