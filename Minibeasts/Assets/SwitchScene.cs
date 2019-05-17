@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Rewired;
 
 public class SwitchScene : MonoBehaviour {
 
@@ -17,7 +18,7 @@ public class SwitchScene : MonoBehaviour {
     }
     IEnumerator Wait()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.5f);
         Application.LoadLevel(Scene);
     }
 }
