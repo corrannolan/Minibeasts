@@ -1335,7 +1335,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 5
+        _actionId: 1
         _elementType: 1
         _elementIdentifierId: 2
         _axisRange: 0
@@ -1346,7 +1346,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: -1
+        _actionId: 5
         _elementType: 1
         _elementIdentifierId: 3
         _axisRange: 0
@@ -1357,7 +1357,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 1
+        _actionId: 3
         _elementType: 1
         _elementIdentifierId: 4
         _axisRange: 0
@@ -1368,7 +1368,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 3
+        _actionId: -1
         _elementType: 1
         _elementIdentifierId: 5
         _axisRange: 0
@@ -1485,7 +1485,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: -1
+        _actionId: 1
         _elementType: 1
         _elementIdentifierId: 2
         _axisRange: 0
@@ -1496,7 +1496,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 3
+        _actionId: 5
         _elementType: 1
         _elementIdentifierId: 3
         _axisRange: 0
@@ -1507,7 +1507,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 5
+        _actionId: 3
         _elementType: 1
         _elementIdentifierId: 4
         _axisRange: 0
@@ -1518,7 +1518,7 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
-        _actionId: 1
+        _actionId: -1
         _elementType: 1
         _elementIdentifierId: 5
         _axisRange: 0
