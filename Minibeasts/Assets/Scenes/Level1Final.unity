@@ -10500,6 +10500,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: Termite
       objectReference: {fileID: 0}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: Cam
+      value: 
+      objectReference: {fileID: 534669902}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: cameraTransformSorta
+      value: 
+      objectReference: {fileID: 1494392195}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: PlayerID
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: footSteps
+      value: 
+      objectReference: {fileID: 8300000, guid: 1b577e3ad3112014ebe0c5924052b315, type: 3}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: fallLand
+      value: 
+      objectReference: {fileID: 8300000, guid: 97ce1532a16b5ef47b22823b7ecdf520, type: 3}
+    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
+        type: 3}
+      propertyPath: jumpUp
+      value: 
+      objectReference: {fileID: 8300000, guid: cec160fbb5eebf14cb2d95571d04603b, type: 3}
     - target: {fileID: 279895104450976246, guid: 2e4475af8da27104fa33b0e9f39cef50,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10555,36 +10585,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: Cam
-      value: 
-      objectReference: {fileID: 534669902}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: cameraTransformSorta
-      value: 
-      objectReference: {fileID: 1494392195}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: PlayerID
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: footSteps
-      value: 
-      objectReference: {fileID: 8300000, guid: 1b577e3ad3112014ebe0c5924052b315, type: 3}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: fallLand
-      value: 
-      objectReference: {fileID: 8300000, guid: 97ce1532a16b5ef47b22823b7ecdf520, type: 3}
-    - target: {fileID: 279895104450976241, guid: 2e4475af8da27104fa33b0e9f39cef50,
-        type: 3}
-      propertyPath: jumpUp
-      value: 
-      objectReference: {fileID: 8300000, guid: cec160fbb5eebf14cb2d95571d04603b, type: 3}
     - target: {fileID: 279895104450976253, guid: 2e4475af8da27104fa33b0e9f39cef50,
         type: 3}
       propertyPath: spawnGoo
